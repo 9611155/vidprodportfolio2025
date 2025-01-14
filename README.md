@@ -4,6 +4,6 @@ add bio for self...
 
 ## Projects for Term 3
 
-### Project Maap for Skyline Daily Video Announcements
+### Project Map for Skyline Daily Video Announcements
 
 ## Projects for term 4
